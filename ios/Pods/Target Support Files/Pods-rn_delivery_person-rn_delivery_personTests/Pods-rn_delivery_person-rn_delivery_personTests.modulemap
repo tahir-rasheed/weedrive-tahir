@@ -1,0 +1,6 @@
+module Pods_rn_delivery_person_rn_delivery_personTests {
+  umbrella header "Pods-rn_delivery_person-rn_delivery_personTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
